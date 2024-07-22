@@ -1,0 +1,10 @@
+# mkinitcpio preset file for the 'linux-aarch64' package
+
+ALL_config="/etc/mkinitcpio.conf"
+ALL_kver="6.10.0-next-20240718-1-1"
+
+PRESETS=('default')
+
+#default_config="/etc/mkinitcpio.conf"
+default_image="/boot/initrd-x1e.img"
+#default_options=""
