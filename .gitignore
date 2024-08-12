@@ -1,0 +1,9 @@
+linux-x1e/src
+linux-x1e/pkg
+linux-x1e/*.gz
+linux-x1e/*.xz
+mesa/src
+mesa/pkg
+*.dtb
+mesa/*.gz
+mesa/*.xz
